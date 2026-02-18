@@ -1,4 +1,5 @@
 import { Code2, Lightbulb, Rocket, Users } from "lucide-react";
+// CodeRabbit review test"
 
 const highlights = [
     {
